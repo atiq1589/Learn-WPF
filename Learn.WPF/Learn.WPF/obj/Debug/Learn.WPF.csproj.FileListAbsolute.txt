@@ -1,0 +1,14 @@
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\bin\Debug\Learn.WPF.exe.config
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\bin\Debug\Learn.WPF.exe
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\bin\Debug\Learn.WPF.pdb
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\Learn.WPF.csprojResolveAssemblyReference.cache
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\MainWindow.baml
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\MainWindow.g.cs
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\App.g.cs
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\Learn.WPF_MarkupCompile.cache
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\Learn.WPF.g.resources
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\Learn.WPF.Properties.Resources.resources
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\Learn.WPF.csproj.GenerateResource.Cache
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\Learn.WPF.exe
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\Learn.WPF.pdb
+D:\My.Lab\My.Code\WPF Learning\Learn.WPF\Learn.WPF\obj\Debug\App.baml

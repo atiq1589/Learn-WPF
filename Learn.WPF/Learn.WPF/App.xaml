@@ -1,0 +1,9 @@
+﻿<Application x:Class="Learn.WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             Startup="Applicaiton_StartUp">
+    <Application.Resources>
+         <sys:String x:Key="GlobalResourceString">Global Resource</sys:String>
+    </Application.Resources>
+</Application>
